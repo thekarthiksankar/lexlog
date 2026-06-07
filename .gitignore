@@ -22,3 +22,7 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+
+# Agent
+/.minion
